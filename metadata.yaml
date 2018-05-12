@@ -1,0 +1,33 @@
+_repo: Dorothy-s-Tour_32556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32556-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Chester, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Violin -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Musicians -- Juvenile fiction'
+- !lcsh 'Chicago (Ill.) -- Juvenile fiction'
+- !lcsh 'Washington (D.C.) -- Juvenile fiction'
+title: Dorothy's Tour
+url: http://www.gutenberg.org/ebooks/32556
